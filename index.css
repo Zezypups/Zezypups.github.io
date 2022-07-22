@@ -5,7 +5,7 @@ a:active {text-decoration: none; }
 body, html{
         margin: 0;
         padding: 0;
-        font-family: 'Open Sans', sans-serif;
+        font-family: 'Gabriola', sans-serif;
 	background: grey;
 	color: #fff;
 	background: url(./images/maxresdefault.jpg) no-repeat center center;
@@ -41,7 +41,7 @@ header > h1{
 	border: 1px solid #fff;	
 
 }
-header > nav{
+header > li{
 	display: inline-block;
 	font-size: 1.0em;
 	font-weight: bold;
